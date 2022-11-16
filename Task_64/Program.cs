@@ -29,29 +29,3 @@ string ShowNum(int number, int start = 0)
 
 }
 
-// void ShowNum(int number)
-// {
-//     if (number > 0)
-//     {
-//         Console.Write("{0} ", number);
-//         ShowNum(number - 1);
-//     }
-// }
-
-// public static void Foo(int n)
-// {
-//     if (n > 0)
-//     {
-//         Console.Write("{0} ", n);
-//         Foo(n - 1);
-//     }
-// }
-// string ShowNum(int number)
-// {
-//     if (number == 1)
-//     {
-//         return "1";
-
-//     }
-//     return ShowNum(number - 1) + " " + number;
-// }
